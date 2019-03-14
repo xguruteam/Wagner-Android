@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/warning_time"
+        android:title="@string/warning_time_delta"
+        />
+    <item android:id="@+id/filter"
+        android:title="@string/filter" />
+    <item android:id="@+id/clear_log"
+        android:title="@string/clear_log" />
+</menu>
